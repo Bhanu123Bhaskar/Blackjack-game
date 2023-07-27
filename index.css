@@ -1,0 +1,31 @@
+/* Complete the CSS styling according to teh provider design */
+
+body {
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   background-image: url("https://th.bing.com/th/id/R.02211957762835fc310247a33d7d331f?rik=vV1EhFvBmyjQPQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fRh1NyGQ.jpg&ehk=38936KSise%2bKOUB9gYvx1ApCUjbaO%2fjxo2hPNqJXkls%3d&risl=&pid=ImgRaw&r=0");
+   background-size: cover;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+}
+
+   h1 {
+    color: goldenrod;
+}
+
+#message-el {
+   font-style:italic;
+}
+
+button {
+   color: #016f32;
+   width: 150px;
+   background-color: goldenrod;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   font-weight: bold;
+   border: none;
+   border-radius: 2px;
+   margin-bottom: 2px;
+   margin-top: 2px;
+}
